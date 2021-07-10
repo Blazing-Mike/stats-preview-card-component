@@ -63,9 +63,10 @@ strong {
   flex-wrap: wrap-reverse;
   gap: 2rem;
   margin: 7rem 3rem;
-  justify-content: space-between;
+  justify-content: ;
   border-radius: 0.4rem;
   align-items: center;
+  width: fit-content;
 }
 
 .attribution {
